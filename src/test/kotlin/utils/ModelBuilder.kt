@@ -1,12 +1,12 @@
 package utils
 
-import entity.ticket.Airport
-import entity.ticket.Company
-import entity.ticket.Ticket
-import integration.ticket.latam.dto.*
-import usecase.integration.dto.AirlineTicketIntegrationInput
-import usecase.integration.dto.AirlineTicketIntegrationOutput
-import usecase.retrieve.dto.RetrieveTicketInput
+import com.github.ata.entity.ticket.Airport
+import com.github.ata.entity.ticket.Company
+import com.github.ata.entity.ticket.Ticket
+import com.github.ata.integration.ticket.latam.dto.*
+import com.github.ata.usecase.integration.dto.AirlineTicketIntegrationInput
+import com.github.ata.usecase.integration.dto.AirlineTicketIntegrationOutput
+import com.github.ata.usecase.retrieve.dto.RetrieveTicketInput
 
 object ModelBuilder {
 
