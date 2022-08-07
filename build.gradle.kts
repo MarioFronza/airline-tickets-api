@@ -8,6 +8,7 @@ val koin_version: String by project
 
 plugins {
     kotlin("jvm") version "1.7.0"
+    kotlin("plugin.serialization") version "1.6.21"
 }
 
 group = "com.github"
@@ -23,8 +24,11 @@ dependencies {
     implementation("io.ktor:ktor-server-locations:$ktor_version")
     implementation("io.ktor:ktor-serialization-kotlinx-json:$ktor_version")
     implementation("io.ktor:ktor-server-content-negotiation:$ktor_version")
-    implementation("com.squareup.okhttp3:okhttp:$okhttp3_version")
+
     implementation("io.insert-koin:koin-ktor:$koin_version")
+
+    implementation("com.squareup.okhttp3:okhttp:$okhttp3_version")
+
     implementation("ch.qos.logback:logback-classic:$logback_version")
 
     testImplementation(kotlin("test"))

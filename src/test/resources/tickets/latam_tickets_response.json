@@ -1,0 +1,6107 @@
+{
+  "pageable": {
+    "sort": {
+      "sorted": true,
+      "unsorted": false,
+      "empty": false
+    },
+    "pageNumber": 0,
+    "pageSize": 50,
+    "offset": 0,
+    "unpaged": false,
+    "paged": true
+  },
+  "last": true,
+  "totalElements": 18,
+  "totalPages": 1,
+  "sort": {
+    "sorted": true,
+    "unsorted": false,
+    "empty": false
+  },
+  "first": true,
+  "number": 0,
+  "size": 50,
+  "numberOfElements": 18,
+  "empty": false,
+  "content": [
+    {
+      "summary": {
+        "tags": [
+          "CHEAPEST"
+        ],
+        "stopOvers": 0,
+        "duration": 80,
+        "flightCode": "LA3303",
+        "origin": {
+          "departure": "2022-07-01T18:40:00",
+          "departureTime": "18:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T20:00:00",
+          "arrivalTime": "20:00",
+          "iataCode": "GRU",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "c6445b7adbe765256e0f0cea8848c5e5d88aa4eb947035278ce4d9e68043ee6e",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "dab4f6f28f07c25197909c148ae4002491e419a81a8323b3f9ed18180a54faef",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 115,
+              "displayCurrency": "R$",
+              "displayAmount": " 115,00",
+              "display": "BRL 115,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "a2025e7b047ee825e43ed946e688d5117cc6dc34851cb1dc1d43ac8789cdb875",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "SJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 572,
+              "displayCurrency": "R$",
+              "displayAmount": " 572,00",
+              "display": "BRL 572,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RY",
+            "offerId": "cb3cf52658b2eee1246ca3254f66b801a315b4c2b075eb9ce8f4f1e012a3503c",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "LJTX0NA",
+            "price": {
+              "currency": "BRL",
+              "amount": 1736.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.736,48",
+              "display": "BRL 1.736,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 1204,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.204,00",
+              "display": "BRL 1.204,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1736.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.736,48",
+              "display": "BRL 1.736,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 532.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 532,48",
+          "display": "BRL 532,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 80,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3303,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": "2"
+          },
+          "origin": "FLN",
+          "destination": "GRU",
+          "departure": "2022-07-01T18:40:00",
+          "arrival": "2022-07-01T20:00:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [
+          "CHEAPEST"
+        ],
+        "stopOvers": 0,
+        "duration": 80,
+        "flightCode": "LA3299",
+        "origin": {
+          "departure": "2022-07-01T08:15:00",
+          "departureTime": "8:15",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T09:35:00",
+          "arrivalTime": "9:35",
+          "iataCode": "GRU",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "d083fc2bcaa917618d24a3a53631a17b311f15d68167eb124eca60efdf159e40",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "451c0996b8da3412201b43813c545aa7db5267ab6e9dc6bc083706b463fb2472",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 115,
+              "displayCurrency": "R$",
+              "displayAmount": " 115,00",
+              "display": "BRL 115,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "32187e416dca887320a42d1650eec9eb5b17196ee5adf69a1d01caeba97bfb92",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "SJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 572,
+              "displayCurrency": "R$",
+              "displayAmount": " 572,00",
+              "display": "BRL 572,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "46fbce9a6588e4fc00a51ad83f5a66db2bb3f3cfcc0fbcfe423223e1809df256",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 667.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 667,48",
+              "display": "BRL 667,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 135,
+              "displayCurrency": "R$",
+              "displayAmount": " 135,00",
+              "display": "BRL 135,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 667.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 667,48",
+              "display": "BRL 667,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 532.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 532,48",
+          "display": "BRL 532,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 80,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3299,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": "2"
+          },
+          "origin": "FLN",
+          "destination": "GRU",
+          "departure": "2022-07-01T08:15:00",
+          "arrival": "2022-07-01T09:35:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [
+          "CHEAPEST"
+        ],
+        "stopOvers": 0,
+        "duration": 80,
+        "flightCode": "LA3301",
+        "origin": {
+          "departure": "2022-07-01T09:35:00",
+          "departureTime": "9:35",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T10:55:00",
+          "arrivalTime": "10:55",
+          "iataCode": "GRU",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "78357f44fe1f8497a8aa9e42f521a03ed8f43ef58ceb63e09d2c627ce19b18bc",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "329b08fc915bdab4ebb0c7cc85bcf1b8cc6088ec1e5d7b01141a1ca5dcac4a81",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 115,
+              "displayCurrency": "R$",
+              "displayAmount": " 115,00",
+              "display": "BRL 115,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "ae1f23059f2d1ad7fdd891bfa087a9ce6f6af803e5c4f092720e472d940a5dae",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "SJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 572,
+              "displayCurrency": "R$",
+              "displayAmount": " 572,00",
+              "display": "BRL 572,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "e4ab07d2d30f2ec50a28d2d8980606389baac774d572410c63f88e08bb3c0d78",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 667.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 667,48",
+              "display": "BRL 667,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 135,
+              "displayCurrency": "R$",
+              "displayAmount": " 135,00",
+              "display": "BRL 135,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 667.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 667,48",
+              "display": "BRL 667,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 532.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 532,48",
+          "display": "BRL 532,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 80,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3301,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": "2"
+          },
+          "origin": "FLN",
+          "destination": "GRU",
+          "departure": "2022-07-01T09:35:00",
+          "arrival": "2022-07-01T10:55:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [
+          "CHEAPEST"
+        ],
+        "stopOvers": 0,
+        "duration": 80,
+        "flightCode": "LA3519",
+        "origin": {
+          "departure": "2022-07-01T12:05:00",
+          "departureTime": "12:05",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T13:25:00",
+          "arrivalTime": "13:25",
+          "iataCode": "GRU",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "f3fc4ddbc78a4539e4001c4038d44a9ee92f242774c3b1958020fd8323b3d738",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "f21807b70e4b9abb82d08787e1db8a73d368afdb4ffc2f2f64b6c21ce04d7522",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 115,
+              "displayCurrency": "R$",
+              "displayAmount": " 115,00",
+              "display": "BRL 115,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "e3acfc9753f8f92703463134e78f4e3da0f76a8b66fd8ebad76bf09cff040bd7",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "SJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 572,
+              "displayCurrency": "R$",
+              "displayAmount": " 572,00",
+              "display": "BRL 572,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 532.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 532,48",
+          "display": "BRL 532,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 80,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "319",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3519,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": "2"
+          },
+          "origin": "FLN",
+          "destination": "GRU",
+          "departure": "2022-07-01T12:05:00",
+          "arrival": "2022-07-01T13:25:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [
+          "RECOMMENDED",
+          "CHEAPEST",
+          "EARLIEST"
+        ],
+        "stopOvers": 0,
+        "duration": 80,
+        "flightCode": "LA3525",
+        "origin": {
+          "departure": "2022-07-01T05:15:00",
+          "departureTime": "5:15",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T06:35:00",
+          "arrivalTime": "6:35",
+          "iataCode": "GRU",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "db2c08201c80ae198ff2637a9c04cd5b6c79b4c1cfaed516239c47f7de6e3c8c",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 532.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 532,48",
+              "display": "BRL 532,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "8457094bbb473906f1333acba24ed6d3e198848bc4104a7d8b3fa38ab4b752d8",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 115,
+              "displayCurrency": "R$",
+              "displayAmount": " 115,00",
+              "display": "BRL 115,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 647.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 647,48",
+              "display": "BRL 647,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "034b0e2a19db09e1aa7c8fa6e54a466a01e234933bd68ee6b81f029522969ed0",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "SJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 572,
+              "displayCurrency": "R$",
+              "displayAmount": " 572,00",
+              "display": "BRL 572,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1104.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.104,48",
+              "display": "BRL 1.104,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "024028a0614ed5c6cdaa613be0a15334c5582c859ed6e8261bfbec3f0a14795c",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "QEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 667.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 667,48",
+              "display": "BRL 667,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 135,
+              "displayCurrency": "R$",
+              "displayAmount": " 135,00",
+              "display": "BRL 135,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 667.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 667,48",
+              "display": "BRL 667,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 532.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 532,48",
+          "display": "BRL 532,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 80,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3525,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": "2"
+          },
+          "origin": "FLN",
+          "destination": "GRU",
+          "departure": "2022-07-01T05:15:00",
+          "arrival": "2022-07-01T06:35:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 0,
+        "duration": 70,
+        "flightCode": "LA3401",
+        "origin": {
+          "departure": "2022-07-01T09:10:00",
+          "departureTime": "9:10",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T10:20:00",
+          "arrivalTime": "10:20",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "385ffec0c2b486d34ec9652d460aa2971441dbb92601c77208e5f9eae47f42cd",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "075d24cec700d51daa4f46256f2824a6b382e5bd6c069f15f6e383060113eb22",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 163,
+              "displayCurrency": "R$",
+              "displayAmount": " 163,00",
+              "display": "BRL 163,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "7577454a86ebe16f66f9f694dc7e0f814e38f23c660c18ece487ce1559c41016",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 602,
+              "displayCurrency": "R$",
+              "displayAmount": " 602,00",
+              "display": "BRL 602,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "ed820b8c4d547c2fd976e7ce39275a0eeb37348ac1dbd067116f3293b34b6257",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 188,
+              "displayCurrency": "R$",
+              "displayAmount": " 188,00",
+              "display": "BRL 188,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 565.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 565,48",
+          "display": "BRL 565,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 70,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "319",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3401,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "CGH",
+          "departure": "2022-07-01T09:10:00",
+          "arrival": "2022-07-01T10:20:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 0,
+        "duration": 70,
+        "flightCode": "LA3457",
+        "origin": {
+          "departure": "2022-07-01T13:40:00",
+          "departureTime": "13:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T14:50:00",
+          "arrivalTime": "14:50",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "5703f20bfd0e1a04e71c7416eef446fed38755fc6da09295fe1dd9d307c9a34c",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "930918c2ab7e657fec20b7a82ddf9fb63f4e84a16cafcd601b33e8c57218c6b6",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 163,
+              "displayCurrency": "R$",
+              "displayAmount": " 163,00",
+              "display": "BRL 163,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "1cfa20ba9c3b27c60712d79798839c017ff8a5073bce118a696b0ff4dbe93f76",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 602,
+              "displayCurrency": "R$",
+              "displayAmount": " 602,00",
+              "display": "BRL 602,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "aca31027539981fcca48cc2135bae85f32cc9fb8cbc678dd59fef300540f69aa",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 188,
+              "displayCurrency": "R$",
+              "displayAmount": " 188,00",
+              "display": "BRL 188,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 565.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 565,48",
+          "display": "BRL 565,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 70,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3457,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "CGH",
+          "departure": "2022-07-01T13:40:00",
+          "arrival": "2022-07-01T14:50:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 0,
+        "duration": 70,
+        "flightCode": "LA3459",
+        "origin": {
+          "departure": "2022-07-01T20:45:00",
+          "departureTime": "20:45",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T21:55:00",
+          "arrivalTime": "21:55",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "d3bbeb824ce00db8b0c0d391a704fd09074ba3ad92f560875a201c4a068db052",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "5f907a26dd7dd3bc51cb7823e3dabe4a89baa1cd4744ee2a34aca928268ce38b",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 163,
+              "displayCurrency": "R$",
+              "displayAmount": " 163,00",
+              "display": "BRL 163,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "dfdf2fae57f57230cf598530c5b0460536e23a61342283cefc22dc9b793a8957",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 602,
+              "displayCurrency": "R$",
+              "displayAmount": " 602,00",
+              "display": "BRL 602,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "74c20b5568ae715c47e8ce971189e4cc74bf989c587c306739f0467fb414cbc4",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 188,
+              "displayCurrency": "R$",
+              "displayAmount": " 188,00",
+              "display": "BRL 188,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 565.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 565,48",
+          "display": "BRL 565,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 70,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3459,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "CGH",
+          "departure": "2022-07-01T20:45:00",
+          "arrival": "2022-07-01T21:55:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [
+          "RECOMMENDED",
+          "FASTEST",
+          "EARLIEST"
+        ],
+        "stopOvers": 0,
+        "duration": 65,
+        "flightCode": "LA3077",
+        "origin": {
+          "departure": "2022-07-01T05:15:00",
+          "departureTime": "5:15",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T06:20:00",
+          "arrivalTime": "6:20",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "3b55713ceae21a9bd94f204dd91b799375be73057d293deb3ed831ac14ebeffa",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "be16937a356c8f8f6d728060beeba0e521bbe437d3a44cf5d546e457ddf576d9",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 163,
+              "displayCurrency": "R$",
+              "displayAmount": " 163,00",
+              "display": "BRL 163,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "3b11b66921519750211819e703181b8eb9eb62c1d71d44a9d35c18d47c7236c8",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 602,
+              "displayCurrency": "R$",
+              "displayAmount": " 602,00",
+              "display": "BRL 602,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "4da39007480baa54936317ff5c2cf76f7da3473f2915682cc6d3ff80ebda84d6",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 188,
+              "displayCurrency": "R$",
+              "displayAmount": " 188,00",
+              "display": "BRL 188,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 565.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 565,48",
+          "display": "BRL 565,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 65,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "319",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3077,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "CGH",
+          "departure": "2022-07-01T05:15:00",
+          "arrival": "2022-07-01T06:20:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 0,
+        "duration": 70,
+        "flightCode": "LA3083",
+        "origin": {
+          "departure": "2022-07-01T18:25:00",
+          "departureTime": "18:25",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T19:35:00",
+          "arrivalTime": "19:35",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "bc9798a669f80bd3561a43b8afbad89d473bfbad10fd9504a505fcfc16bc3314",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "6dcc24457c1e8b0eeefe8ae8c44a7aab818633bb4f0565e8a4e747c1e304f288",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 163,
+              "displayCurrency": "R$",
+              "displayAmount": " 163,00",
+              "display": "BRL 163,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "3740da96aa7a42e2eb9b07de2995cbae5bc98313aa49f24642499075d9e36756",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 602,
+              "displayCurrency": "R$",
+              "displayAmount": " 602,00",
+              "display": "BRL 602,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "a682115c324ef1fc5f7382ca21c3744f6582e6e583b83192d6af701057cba393",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 188,
+              "displayCurrency": "R$",
+              "displayAmount": " 188,00",
+              "display": "BRL 188,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 565.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 565,48",
+          "display": "BRL 565,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 70,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "319",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3083,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "CGH",
+          "departure": "2022-07-01T18:25:00",
+          "arrival": "2022-07-01T19:35:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 0,
+        "duration": 70,
+        "flightCode": "LA3081",
+        "origin": {
+          "departure": "2022-07-01T15:50:00",
+          "departureTime": "15:50",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T17:00:00",
+          "arrivalTime": "17:00",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "3f3df24d79e84aa1988010859983f5d2f652a12ac696db162dd08ffb589d0ac4",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N1",
+            "price": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 565.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 565,48",
+              "display": "BRL 565,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "56162c10ef3815b344f2d9884658eac0591c1909d9671fce1f67c1ccfb233e59",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N8",
+            "price": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 163,
+              "displayCurrency": "R$",
+              "displayAmount": " 163,00",
+              "display": "BRL 163,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 728.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 728,48",
+              "display": "BRL 728,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "6eb96b4da9010987e48b0bb73b42843371f4e22c7fb3f0a7e09433a4b298f741",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "NJHX0N9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 602,
+              "displayCurrency": "R$",
+              "displayAmount": " 602,00",
+              "display": "BRL 602,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1167.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.167,48",
+              "display": "BRL 1.167,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "062d5e93e4d1fb2db76969744863834e2538c5a7555c70a1b82d18c066431181",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "NEHX0N2",
+            "price": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 188,
+              "displayCurrency": "R$",
+              "displayAmount": " 188,00",
+              "display": "BRL 188,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 753.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 753,48",
+              "display": "BRL 753,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 565.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 565,48",
+          "display": "BRL 565,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 70,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3081,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "CGH",
+          "departure": "2022-07-01T15:50:00",
+          "arrival": "2022-07-01T17:00:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 1,
+        "duration": 340,
+        "flightCode": "LA3727",
+        "origin": {
+          "departure": "2022-07-01T05:40:00",
+          "departureTime": "5:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T11:20:00",
+          "arrivalTime": "11:20",
+          "iataCode": "GRU",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "b30997b092aa29ba0acc5bf0d294ea44f211fe5d2be78b4b21b389a12d692228",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "LJTX0G1",
+            "price": {
+              "currency": "BRL",
+              "amount": 1195.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.195,48",
+              "display": "BRL 1.195,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1195.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.195,48",
+              "display": "BRL 1.195,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "330111b65f08fdc030367b8732a05a211e77e2998c979fc8f15ac0d85d8f6560",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "LJTX0G8",
+            "price": {
+              "currency": "BRL",
+              "amount": 1370.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.370,48",
+              "display": "BRL 1.370,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 175,
+              "displayCurrency": "R$",
+              "displayAmount": " 175,00",
+              "display": "BRL 175,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1370.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.370,48",
+              "display": "BRL 1.370,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "5abc30dfdba97325e2b87b2e801cca411c4a92dd704a61407ad5eb3ca7e743f3",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "LJTX0G9",
+            "price": {
+              "currency": "BRL",
+              "amount": 1525.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.525,48",
+              "display": "BRL 1.525,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 330,
+              "displayCurrency": "R$",
+              "displayAmount": " 330,00",
+              "display": "BRL 330,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1525.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.525,48",
+              "display": "BRL 1.525,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "769e8c7c1694f01aafbd929831514434b03f2d7e8c2acd8e9b10a124d9aaa00f",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "LJTX0G2",
+            "price": {
+              "currency": "BRL",
+              "amount": 1400.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.400,48",
+              "display": "BRL 1.400,48"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 205,
+              "displayCurrency": "R$",
+              "displayAmount": " 205,00",
+              "display": "BRL 205,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 1400.48,
+              "displayCurrency": "R$",
+              "displayAmount": " 1.400,48",
+              "display": "BRL 1.400,48"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 1195.48,
+          "displayCurrency": "R$",
+          "displayAmount": " 1.195,48",
+          "display": "BRL 1.195,48"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 125,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3727,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "BSB",
+          "departure": "2022-07-01T05:40:00",
+          "arrival": "2022-07-01T07:45:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 100,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3255,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": "2"
+          },
+          "origin": "BSB",
+          "destination": "GRU",
+          "departure": "2022-07-01T09:40:00",
+          "arrival": "2022-07-01T11:20:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 1,
+        "duration": 550,
+        "flightCode": "LA3727",
+        "origin": {
+          "departure": "2022-07-01T05:40:00",
+          "departureTime": "5:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T14:50:00",
+          "arrivalTime": "14:50",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "8d7b446eb9335307ff4736c3bcebfff697870488a278f85166ce44aa4adeefb2",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G1",
+            "price": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "da0449f05d8d8eee4762b095c7a55ddfe5cad912471190c08fdb47c5c3b7ac83",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G8",
+            "price": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 90,
+              "displayCurrency": "R$",
+              "displayAmount": " 90,00",
+              "display": "BRL 90,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "7d995fabfb1e1fa21d6b7206aa8e90a93ef69f1612e182d3c50397d3d898adc8",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G9",
+            "price": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 190,
+              "displayCurrency": "R$",
+              "displayAmount": " 190,00",
+              "display": "BRL 190,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "928eef3a738c16ae0fffdc482f3959e9e760b2f095b317b1914a46350cd26e96",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "PJ0X0G2",
+            "price": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 200,
+              "displayCurrency": "R$",
+              "displayAmount": " 200,00",
+              "display": "BRL 200,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 3040.58,
+          "displayCurrency": "R$",
+          "displayAmount": " 3.040,58",
+          "display": "BRL 3.040,58"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 125,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3727,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "BSB",
+          "departure": "2022-07-01T05:40:00",
+          "arrival": "2022-07-01T07:45:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 105,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3009,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "BSB",
+          "destination": "CGH",
+          "departure": "2022-07-01T13:05:00",
+          "arrival": "2022-07-01T14:50:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 2,
+        "duration": 370,
+        "flightCode": "LA3727",
+        "origin": {
+          "departure": "2022-07-01T05:40:00",
+          "departureTime": "5:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T11:50:00",
+          "arrivalTime": "11:50",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "45ba35f390e48625c0f4168a40e4d2620bc295eb7a480aa4dad3eae5854113aa",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G1",
+            "price": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "fccaf7cfd60fd8e43363a17924ac2dec8743c6be3d3b58ac58e145174346312d",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G8",
+            "price": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 90,
+              "displayCurrency": "R$",
+              "displayAmount": " 90,00",
+              "display": "BRL 90,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "8944eb50d73f81484c20ec50b31ac48da96f7143220b937331beccc9a5436507",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G9",
+            "price": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 190,
+              "displayCurrency": "R$",
+              "displayAmount": " 190,00",
+              "display": "BRL 190,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "c5ced263cb0eb11a5dfd12f3ddcfdc370e5d020338addbd9e6763f5d2ad3d88a",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "PJ0X0G2",
+            "price": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 200,
+              "displayCurrency": "R$",
+              "displayAmount": " 200,00",
+              "display": "BRL 200,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 3040.58,
+          "displayCurrency": "R$",
+          "displayAmount": " 3.040,58",
+          "display": "BRL 3.040,58"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 125,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3727,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "BSB",
+          "departure": "2022-07-01T05:40:00",
+          "arrival": "2022-07-01T07:45:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 45,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3736,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "BSB",
+          "destination": "GYN",
+          "departure": "2022-07-01T08:40:00",
+          "arrival": "2022-07-01T09:25:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 90,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3097,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "GYN",
+          "destination": "CGH",
+          "departure": "2022-07-01T10:20:00",
+          "arrival": "2022-07-01T11:50:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 1,
+        "duration": 315,
+        "flightCode": "LA3727",
+        "origin": {
+          "departure": "2022-07-01T05:40:00",
+          "departureTime": "5:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T10:55:00",
+          "arrivalTime": "10:55",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "1f23c472ac47830a405afb91e88ceb0b5707725cf9004e14784a0e48096f3942",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G1",
+            "price": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "f67c796557fc4219c061d1403b1072c79657fd59a358118c28e6c82d3553d002",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G8",
+            "price": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 90,
+              "displayCurrency": "R$",
+              "displayAmount": " 90,00",
+              "display": "BRL 90,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "428159968a3dd956da17657ebf4a7c0c3c3cc31ffdea0564363f440c4d4b1a7f",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G9",
+            "price": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 190,
+              "displayCurrency": "R$",
+              "displayAmount": " 190,00",
+              "display": "BRL 190,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "d092da3f2c41a6294ef5721008c486f020b22501fb15660bab85bb143c8fce4f",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "PJ0X0G2",
+            "price": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 200,
+              "displayCurrency": "R$",
+              "displayAmount": " 200,00",
+              "display": "BRL 200,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 3040.58,
+          "displayCurrency": "R$",
+          "displayAmount": " 3.040,58",
+          "display": "BRL 3.040,58"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 125,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3727,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "BSB",
+          "departure": "2022-07-01T05:40:00",
+          "arrival": "2022-07-01T07:45:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 105,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3021,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "BSB",
+          "destination": "CGH",
+          "departure": "2022-07-01T09:10:00",
+          "arrival": "2022-07-01T10:55:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 2,
+        "duration": 525,
+        "flightCode": "LA3727",
+        "origin": {
+          "departure": "2022-07-01T05:40:00",
+          "departureTime": "5:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T14:25:00",
+          "arrivalTime": "14:25",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "c8c827e47f1fa9c8f92c7d2561c7a87db5fedc5ce0c287e25b0860d0e82746e2",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G1",
+            "price": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "da7b446433e74bfb519abb8d71a1b605707dad4b33cdd9a87b0c3eef987b2826",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G8",
+            "price": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 90,
+              "displayCurrency": "R$",
+              "displayAmount": " 90,00",
+              "display": "BRL 90,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "e0e3950057fe1e406eb735ac6228963c389db09d0a8e0ba44247d5a58d717d57",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G9",
+            "price": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 190,
+              "displayCurrency": "R$",
+              "displayAmount": " 190,00",
+              "display": "BRL 190,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RY",
+            "offerId": "f89f0fdfcd222d7f799ca895e6ab9315e44f9e7e84bdbba5d3ed6853a3cc046b",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "WJ0X0GA",
+            "price": {
+              "currency": "BRL",
+              "amount": 3250.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.250,58",
+              "display": "BRL 3.250,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 210,
+              "displayCurrency": "R$",
+              "displayAmount": " 210,00",
+              "display": "BRL 210,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3250.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.250,58",
+              "display": "BRL 3.250,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 3040.58,
+          "displayCurrency": "R$",
+          "displayAmount": " 3.040,58",
+          "display": "BRL 3.040,58"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 125,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3727,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "BSB",
+          "departure": "2022-07-01T05:40:00",
+          "arrival": "2022-07-01T07:45:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 45,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3736,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "BSB",
+          "destination": "GYN",
+          "departure": "2022-07-01T08:40:00",
+          "arrival": "2022-07-01T09:25:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 100,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3103,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "GYN",
+          "destination": "CGH",
+          "departure": "2022-07-01T12:45:00",
+          "arrival": "2022-07-01T14:25:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 1,
+        "duration": 405,
+        "flightCode": "LA3727",
+        "origin": {
+          "departure": "2022-07-01T05:40:00",
+          "departureTime": "5:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T12:25:00",
+          "arrivalTime": "12:25",
+          "iataCode": "CGH",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "e28beb096f2347fe1b28cf31afae0ef0dcec92dd6cd466322267347ebf630cfc",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G1",
+            "price": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "0a66d485c9f087c979487732430b5f14316b9a3444d993458c738ac69127c439",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G8",
+            "price": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 90,
+              "displayCurrency": "R$",
+              "displayAmount": " 90,00",
+              "display": "BRL 90,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "252efc2ea24f3c3492de9309a4cf154ad5bfe1511a9fc6f33ec54b00eb652ab2",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G9",
+            "price": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 190,
+              "displayCurrency": "R$",
+              "displayAmount": " 190,00",
+              "display": "BRL 190,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RY",
+            "offerId": "e34fd2dc24a22370ee07d00c28a67b83351cc159b4e6ca50f8dd4ae943f6b371",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "WJ0X0GA",
+            "price": {
+              "currency": "BRL",
+              "amount": 3250.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.250,58",
+              "display": "BRL 3.250,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 210,
+              "displayCurrency": "R$",
+              "displayAmount": " 210,00",
+              "display": "BRL 210,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3250.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.250,58",
+              "display": "BRL 3.250,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 3040.58,
+          "displayCurrency": "R$",
+          "displayAmount": " 3.040,58",
+          "display": "BRL 3.040,58"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 125,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3727,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "BSB",
+          "departure": "2022-07-01T05:40:00",
+          "arrival": "2022-07-01T07:45:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 105,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3007,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "BSB",
+          "destination": "CGH",
+          "departure": "2022-07-01T10:40:00",
+          "arrival": "2022-07-01T12:25:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    },
+    {
+      "summary": {
+        "tags": [],
+        "stopOvers": 2,
+        "duration": 440,
+        "flightCode": "LA3727",
+        "origin": {
+          "departure": "2022-07-01T05:40:00",
+          "departureTime": "5:40",
+          "iataCode": "FLN",
+          "airport": "Hercilio Luz",
+          "city": "Florianópolis"
+        },
+        "destination": {
+          "arrival": "2022-07-01T13:00:00",
+          "arrivalTime": "13:00",
+          "iataCode": "GRU",
+          "airport": "null",
+          "city": "São Paulo"
+        },
+        "brands": [
+          {
+            "id": "SL",
+            "offerId": "b01f1f91bed614c0a6d0e9a6ae517ededfb07d1569a95376c075ab6c404f519c",
+            "brandText": "LIGHT",
+            "brandDescription": "xp_sales_web_brand_economy_light_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G1",
+            "price": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 0,
+              "displayCurrency": "R$",
+              "displayAmount": " 0,00",
+              "display": "BRL 0,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3040.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.040,58",
+              "display": "BRL 3.040,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": false
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SE",
+            "offerId": "6716b2c394c71c6b60a47c3921d2cf89e387953fff38a97f32d3fd706e0f919e",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_economy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G8",
+            "price": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 90,
+              "displayCurrency": "R$",
+              "displayAmount": " 90,00",
+              "display": "BRL 90,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3130.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.130,58",
+              "display": "BRL 3.130,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          },
+          {
+            "id": "SF",
+            "offerId": "28678b9e6cd7c828bbba4bb59eb3c17ef0f15123ff8ca223bf91c1a64de1a628",
+            "brandText": "TOP",
+            "brandDescription": "xp_sales_web_brand_economy_top_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "Economy"
+            },
+            "rules": {},
+            "farebasis": "YJ0X0G9",
+            "price": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 190,
+              "displayCurrency": "R$",
+              "displayAmount": " 190,00",
+              "display": "BRL 190,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3230.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.230,58",
+              "display": "BRL 3.230,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": false
+              },
+              "latamPlusSeat": {
+                "show": true,
+                "exclusive": false
+              },
+              "food": {
+                "show": false,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": true
+              },
+              "changes": {
+                "show": false
+              }
+            }
+          },
+          {
+            "id": "RA",
+            "offerId": "4643fd1be79e9aca20e3bddcd55972b75116357c2aac618ab2f83917694233da",
+            "brandText": "PLUS",
+            "brandDescription": "xp_sales_web_brand_premiumeconomy_plus_description",
+            "promotionalText": {
+              "show": false,
+              "label": ""
+            },
+            "cabin": {
+              "id": "Y",
+              "label": "PremiumEconomy"
+            },
+            "rules": {},
+            "farebasis": "PJ0X0G2",
+            "price": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "lowestPriceDifference": {
+              "currency": "BRL",
+              "amount": 200,
+              "displayCurrency": "R$",
+              "displayAmount": " 200,00",
+              "display": "BRL 200,00"
+            },
+            "lowestPriceBrand": "SL",
+            "priceAfterSelection": {
+              "currency": "BRL",
+              "amount": 3240.58,
+              "displayCurrency": "R$",
+              "displayAmount": " 3.240,58",
+              "display": "BRL 3.240,58"
+            },
+            "attributes": {
+              "comfortableSeat": {
+                "show": true
+              },
+              "latamPlusSeat": {
+                "show": false,
+                "exclusive": false
+              },
+              "food": {
+                "show": true,
+                "exclusive": false
+              },
+              "accrual": {
+                "show": false
+              },
+              "personalItem": {
+                "show": true
+              },
+              "seatSelection": {
+                "show": true
+              },
+              "flexibility": {
+                "show": false
+              },
+              "changes": {
+                "show": true
+              }
+            }
+          }
+        ],
+        "lowestPrice": {
+          "currency": "BRL",
+          "amount": 3040.58,
+          "displayCurrency": "R$",
+          "displayAmount": " 3.040,58",
+          "display": "BRL 3.040,58"
+        },
+        "flightOperators": [
+          "LATAM Airlines Brasil"
+        ]
+      },
+      "itinerary": [
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 125,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "321",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3727,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "FLN",
+          "destination": "BSB",
+          "departure": "2022-07-01T05:40:00",
+          "arrival": "2022-07-01T07:45:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 45,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3736,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": null
+          },
+          "origin": "BSB",
+          "destination": "GYN",
+          "departure": "2022-07-01T08:40:00",
+          "arrival": "2022-07-01T09:25:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        },
+        {
+          "codeShare": false,
+          "interLine": false,
+          "subjectToGovernmentApproval": false,
+          "duration": 95,
+          "flightsMiles": null,
+          "cabinClass": null,
+          "equipment": "320",
+          "aircraftLeaseText": "LATAM AIRLINES BRASIL",
+          "flight": {
+            "flightNumber": 3539,
+            "airlineCode": "LA",
+            "operatingAirlineCode": "LA",
+            "flightOperator": "JJ",
+            "stopAirports": [],
+            "departureTerminal": null,
+            "arrivalTerminal": "2"
+          },
+          "origin": "GYN",
+          "destination": "GRU",
+          "departure": "2022-07-01T11:25:00",
+          "arrival": "2022-07-01T13:00:00",
+          "bookingClass": null,
+          "fareBasis": null,
+          "type": null
+        }
+      ]
+    }
+  ]
+}

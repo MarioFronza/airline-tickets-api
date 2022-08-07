@@ -3,6 +3,7 @@ package utils
 import entity.ticket.Airport
 import entity.ticket.Company
 import entity.ticket.Ticket
+import integration.ticket.latam.dto.*
 import usecase.integration.dto.AirlineTicketIntegrationInput
 import usecase.integration.dto.AirlineTicketIntegrationOutput
 import usecase.retrieve.dto.RetrieveTicketInput
@@ -57,5 +58,38 @@ object ModelBuilder {
         airportDestination = airportDestination
     )
 
+    fun createLatamTicketRequest(
+        origin: String = "FLN",
+        destination: String = "GRU",
+        outFrom: String = "2022-07-01"
+    ) = LatamTicketRequest(
+        origin = origin,
+        destination = destination,
+        outFrom = outFrom
+    )
+
+    fun createLatamTicketResponse() = LatamTicketResponse(
+        content = listOf(createLatamContentResponse())
+    )
+
+    fun createLatamContentResponse(
+        originIataCode: String = "FLN",
+        destinationIataCode: String = "GRU",
+        departure: String = "2022-07-01T18:40:00",
+        amount: Double = 532.48
+    ) = Content(
+        summary = Summary(
+            origin = Origin(
+                departure = departure,
+                iataCode = originIataCode
+            ),
+            destination = Destination(
+                iataCode = destinationIataCode
+            ),
+            lowestPrice = LowestPrice(
+                amount = amount
+            )
+        )
+    )
 
 }

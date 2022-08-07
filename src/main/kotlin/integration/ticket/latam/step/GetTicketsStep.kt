@@ -4,6 +4,7 @@ import integration.http.ConnectionHttpClient
 import integration.http.dto.StepResponse
 import integration.ticket.latam.dto.Constants.BASE_SERVICE_URL
 import integration.ticket.latam.dto.LatamTicketRequest
+import shared.extension.StringExtensions.removeBreakLines
 
 class GetTicketsStep(
     private val httpClient: ConnectionHttpClient
@@ -19,13 +20,13 @@ class GetTicketsStep(
             &inFrom=null
             &inOfferId=null
             &outFlightDate=null
-            &outFrom=${request.outFrom} 
+            &outFrom=${request.outFrom}
             &outOfferId=null
             &adult=1
             &child=0
             &infant=0
             &redemption=false
-        """.trimIndent()
+        """.removeBreakLines()
 
         val headers = mapOf(
             "x-latam-app-session-id" to "1",

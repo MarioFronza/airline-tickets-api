@@ -8,7 +8,7 @@ object StringExtensions {
 
     val logger = getLogger()
 
-    inline fun <reified T: Any> String.convertTo(): T {
+    inline fun <reified R: Any> String.convertTo(): R {
        try {
            val json = Json {
                ignoreUnknownKeys = true
@@ -20,4 +20,7 @@ object StringExtensions {
        }
     }
 
+
+    fun String.removeBreakLines() =
+        this.trimIndent().replace("\n", "")
 }
