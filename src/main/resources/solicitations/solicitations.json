@@ -1,0 +1,12 @@
+[
+  {
+    "origin": "FLN",
+    "destination": "SAO",
+    "date": "01-09-2022"
+  },
+  {
+    "origin": "SAO",
+    "destination": "FLN",
+    "date": "20-09-2022"
+  }
+]
