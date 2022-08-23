@@ -20,7 +20,7 @@
 }
 ```
 
-## retrieve solicitations
+## retrieve all solicitations
 
 ### input 
 ```json
