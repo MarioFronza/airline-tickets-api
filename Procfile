@@ -1,0 +1,1 @@
+web: ./build/install/airline-tickets-api/bin/airline-tickets-api

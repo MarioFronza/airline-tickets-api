@@ -11,6 +11,12 @@ plugins {
     kotlin("plugin.serialization") version "1.6.21"
 }
 
+kotlin {
+    jvmToolchain {
+        (this).languageVersion.set(JavaLanguageVersion.of(11))
+    }
+}
+
 group = "com.github"
 version = "1.0-SNAPSHOT"
 
@@ -33,6 +39,10 @@ dependencies {
 
     testImplementation(kotlin("test"))
     testImplementation("io.mockk:mockk:$mockk_version")
+}
+
+tasks.create("stage") {
+    dependsOn("installDist")
 }
 
 tasks.test {
