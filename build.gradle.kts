@@ -12,14 +12,13 @@ plugins {
     kotlin("plugin.serialization") version "1.7.10"
 }
 
-
 application {
     mainClass.set("com.github.ata.ApplicationKt")
 }
 
 kotlin {
     jvmToolchain {
-        (this as JavaToolchainSpec).languageVersion.set(JavaLanguageVersion.of(11))
+        (this).languageVersion.set(JavaLanguageVersion.of(11))
     }
 }
 
