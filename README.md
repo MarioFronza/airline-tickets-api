@@ -32,7 +32,7 @@ To start the application, execute a Gradle Wrapper *run* task.
 
 ## Heroku
 
-Test requesting your semester results using heroku.
+Test requesting your solicitations using heroku.
 
 ```
 curl --request GET \
@@ -45,40 +45,35 @@ curl --request GET \
 
 - ***GET*** /retrieve-solicitations
 
-  <details>
-    <summary><b>Response</b></summary>
-    <p>
-
-  ```json
-  {
-	  "cheapestTickets": [
-	    {
-			"company": "LATAM Airlines Brasil",
-			"origin": "FLN",
-			"destination": "GRU",
-			"date": "01-09-2022",
-			"price": 1031.48
-	    },
-	    {
-			"company": "LATAM Airlines Brasil",
-			"origin": "SDU",
-			"destination": "CGH",
-			"date": "01-10-2022",
-			"price": 446.83
-	    }
-	  ],
-    "summary": {
-	        "error": [
-			    "Could not extract tickets for SAO to FLN"
-	         ]
-     }
+<details>
+ <summary><b>Response</b></summary>
+    
+```json
+{
+  "cheapestTickets": [
+    {
+      "company": "LATAM Airlines Brasil",
+      "origin": "FLN",
+      "destination": "GRU",
+      "date": "01-09-2022",
+      "price": 1031.48
+    },
+    {
+      "company": "LATAM Airlines Brasil",
+      "origin": "SDU",
+      "destination": "CGH",
+      "date": "01-10-2022",
+      "price": 446.83
+    }
+  ],
+  "summary": {
+    "error": [
+      "Could not extract tickets for SAO to FLN"
+    ]
   }
-
-  ```
-
-    </p>
-
-  </details>
+}
+```
+</details>
 
 ## Tests
 
